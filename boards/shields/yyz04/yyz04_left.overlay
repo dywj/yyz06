@@ -6,9 +6,6 @@
 
 #include "yyz04.dtsi"
 
-&default_transform {
-    col-offset = <4>;
-};
 
 &kscan0 {
     col-gpios
