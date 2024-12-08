@@ -1,6 +1,6 @@
 layers:
   QWERT:
-  - $$mdi:bluetooth-off$$
+  - BT CLR ALL
   - W
   - E
   - R
