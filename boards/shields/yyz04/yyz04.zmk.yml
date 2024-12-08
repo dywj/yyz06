@@ -2,7 +2,7 @@ file_format: "1"
 id: yyz04
 name: yyz04
 type: shield
-url: https://github.com/NoirGuo/ZMK-yyz04-Manuform
+url: https://github.com/NoirGuo/ZMK-Dactyl-Manuform
 requires: [nrfmicro_13]
 features:
   - keys
