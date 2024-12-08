@@ -1,0 +1,11 @@
+file_format: "1"
+id: yyz04
+name: yyz04
+type: shield
+url: https://github.com/NoirGuo/ZMK-yyz04-Manuform
+requires: [nrfmicro_13]
+features:
+  - keys
+siblings:
+  - yyz04_left
+  - yyz04_right
