@@ -22,15 +22,15 @@ layers:
   - KP 5
   - KP 6
   - KP PLUS
-  - T
-  - Y
+  - RGB EFF
+  - RGB EFR
   - U
   - KP 1
   - KP 2
   - KP 3
   - RGB TOG
-  - G
-  - H
+  - RGB BRD
+  - RGB BRI
   - KP 0
   - KP DOT
   - {t: '$$mdi:keyboard-return$$', type: enter}
