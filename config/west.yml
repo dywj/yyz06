@@ -4,7 +4,7 @@ manifest:
       url-base: https://github.com/dywj
   projects:
     - name: zmk
-      remote: zmkfirmware
+      remote: zmk_yyz
       revision: main
       import: app/west.yml
   self:
