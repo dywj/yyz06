@@ -3,7 +3,7 @@ manifest:
     - name: zmk_yyz
       url-base: https://github.com/dywj
   projects:
-    - name: zmk
+    - name: zmk_yyz
       remote: zmk_yyz
       revision: main
       import: app/west.yml
