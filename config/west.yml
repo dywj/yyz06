@@ -1,11 +1,11 @@
 manifest:
   remotes:
-    - name: zmk_yyz
-      url-base: https://github.com/dywj
+    - name: zmk
+      url-base: https://github.com/ReFil
   projects:
-    - name: zmk_yyz
-      remote: zmk_yyz
-      revision: patch-1
+    - name: zmk
+      remote: zmk
+      revision: funkylights
       import: app/west.yml
   self:
     path: config
