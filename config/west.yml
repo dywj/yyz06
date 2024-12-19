@@ -5,7 +5,7 @@ manifest:
   projects:
     - name: zmk_yyz
       remote: zmk_yyz
-      revision: dywj-patch-1
+      revision: yyz1
       import: app/west.yml
   self:
     path: config
