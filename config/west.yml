@@ -5,7 +5,7 @@ manifest:
   projects:
     - name: zmk_yyz1
       remote: zmk_yyz1
-      revision: funkylights
+      revision: main
       import: app/west.yml
   self:
     path: config
