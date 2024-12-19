@@ -1,6 +1,6 @@
 manifest:
   remotes:
-  - name: ReFil
+  - name: zmk
     url-base: https://github.com/ReFil
 projects:
   - name: zmk
