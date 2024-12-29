@@ -1,10 +1,10 @@
 manifest:
   remotes:
-    - name: zmk_yyz1
+    - name: zmk_yyz
       url-base: https://github.com/dywj
   projects:
-    - name: zmk_yyz1
-      remote: zmk_yyz1
+    - name: zmk_yyz
+      remote: zmk_yyz
       revision: main
       import: app/west.yml
   self:
