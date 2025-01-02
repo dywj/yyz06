@@ -87,4 +87,4 @@ layers:
   - $$mdi:apple-keyboard-control$$
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-down-bold$$
-  - '&kpRIGHT'
+  - $$mdi:arrow-right-bold$$
