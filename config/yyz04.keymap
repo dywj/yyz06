@@ -33,6 +33,17 @@
 
             display-name = "QWERT";
         };
+     layer_1 {
+            bindings = <
+&trans      &trans         &trans        &trans             &trans      &trans      &trans     &trans 
+&trans      &trans         &trans                           &trans      &kp UP      &trans
+&trans      &trans         &trans        &trans             &kp LEFT    &trans      &kp RIGHT  &trans  
+&trans      &trans         &trans                           &trans      &kp DOWN    &trans 
+            &trans         &trans        &trans                         &trans      &trans     &trans 
+                                
+            >;
 
+            display-name = "MOUSE";
+        };
     };
 };
