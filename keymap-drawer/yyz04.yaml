@@ -78,7 +78,7 @@ layers:
   - END
   - RIGHT
   - $$mdi:apple-keyboard-control$$
-  - z
+  - Z
   - $$mdi:apple-keyboard-option$$
   - $$mdi:keyboard-space$$
   - $$mdi:keyboard-space$$
@@ -167,7 +167,7 @@ layers:
   - END
   - RIGHT
   - $$mdi:apple-keyboard-control$$
-  - APP
+  - Z
   - $$mdi:apple-keyboard-option$$
   - $$mdi:keyboard-space$$
   - $$mdi:keyboard-space$$
