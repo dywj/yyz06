@@ -79,12 +79,12 @@ layers:
   - RIGHT
   - $$mdi:apple-keyboard-control$$
   - Z
-  - $$mdi:apple-keyboard-option$$
-  - $$mdi:keyboard-space$$
-  - $$mdi:keyboard-space$$
-  - $$mdi:apple-keyboard-option$$
+  - X
+  - C
+  - V
+  - B
+  - N
   - M
-  - $$mdi:apple-keyboard-control$$
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-down-bold$$
   - $$mdi:arrow-right-bold$$
