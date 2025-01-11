@@ -165,7 +165,7 @@ layers:
   - $$mdi:apple-keyboard-shift$$
   - $$mdi:arrow-up-bold$$
   - END
-  - RIGHT
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
   - $$mdi:apple-keyboard-control$$
   - Z
   - $$mdi:apple-keyboard-option$$
