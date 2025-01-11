@@ -7,7 +7,7 @@
 #include "yyz04.dtsi"
 
 &default_transform {
-    col-offset = <4>;
+    col-offset = <8>;
 };
 
 &kscan0 {
