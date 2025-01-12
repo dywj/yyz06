@@ -6,7 +6,9 @@
 
 #include "yyz04.dtsi"
 
-
+&default_transform {
+    col-offset = <8>;
+};
 &kscan0 {
     col-gpios
         = <&gpio0 2 GPIO_ACTIVE_HIGH>
