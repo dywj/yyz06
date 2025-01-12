@@ -1,6 +1,6 @@
 layers:
   QWERT:
-  - BT CLR ALL
+  - B
   - $$mdi:keyboard-esc$$
   - F1
   - F2
@@ -14,7 +14,7 @@ layers:
   - F10
   - F11
   - F12
-  - RGB TOG
+  - H
   - {t: '`', s: '~'}
   - {t: '1', s: '!'}
   - {t: '2', s: '@'}
@@ -30,7 +30,7 @@ layers:
   - {t: '=', s: +}
   - {t: '$$mdi:backspace$$', type: backspace}
   - HOME
-  - RGB EFR
+  - Y
   - $$mdi:keyboard-tab$$
   - Q
   - W
@@ -46,7 +46,7 @@ layers:
   - {t: ']', s: '}'}
   - {t: \, s: '|'}
   - PG UP
-  - RGB BRD
+  - {t: '7', s: '&'}
   - $$mdi:apple-keyboard-caps$$
   - A
   - S
@@ -61,7 +61,7 @@ layers:
   - {t: '''', s: '"'}
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - PG DN
-  - RGB BRI
+  - {t: '8', s: '*'}
   - $$mdi:apple-keyboard-shift$$
   - Z
   - X
