@@ -16,7 +16,7 @@ layers:
   - F12
   - H
   - {t: '`', s: '~'}
-  - {t: '1', s: '!'}
+  - RGB TOG
   - {t: '2', s: '@'}
   - {t: '3', s: '#'}
   - {t: '4', s: $}
@@ -32,7 +32,7 @@ layers:
   - HOME
   - Y
   - $$mdi:keyboard-tab$$
-  - Q
+  - RGB EFR
   - W
   - E
   - R
