@@ -16,7 +16,7 @@ layers:
   - F12
   - F13
   - HOME
-  - bootloader
+  - $$mdi:progress-download$$
   - RGB TOG
   - {t: '`', s: '~'}
   - {t: '1', s: '!'}
