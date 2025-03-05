@@ -14,8 +14,9 @@ layers:
   - F10
   - F11
   - F12
-  - KP 7
-  - KP 8
+  - F13
+  - F13
+  - HOME
   - RGB TOG
   - {t: '`', s: '~'}
   - {t: '1', s: '!'}
@@ -31,7 +32,7 @@ layers:
   - {t: '-', s: _}
   - {t: '=', s: +}
   - {t: '$$mdi:backspace$$', type: backspace}
-  - HOME
+  - $$mdi:backspace-reverse-outline$$
   - RGB EFR
   - $$mdi:keyboard-tab$$
   - Q
