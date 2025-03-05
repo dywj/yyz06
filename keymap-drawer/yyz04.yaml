@@ -15,8 +15,8 @@ layers:
   - F11
   - F12
   - F13
-  - F13
   - HOME
+  - bootloader
   - RGB TOG
   - {t: '`', s: '~'}
   - {t: '1', s: '!'}
@@ -79,7 +79,7 @@ layers:
   - $$mdi:apple-keyboard-shift$$
   - $$mdi:arrow-up-bold$$
   - END
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - $$mdi:progress-download$$
   - $$mdi:apple-keyboard-control$$
   - LWIN
   - $$mdi:apple-keyboard-option$$
