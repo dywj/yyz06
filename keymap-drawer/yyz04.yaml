@@ -1,6 +1,6 @@
 layers:
   QWERT:
-  - BT CLR ALL
+  - $$mdi:keyboard-esc$$
   - $$mdi:keyboard-esc$$
   - F1
   - F2
