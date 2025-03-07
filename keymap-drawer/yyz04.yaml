@@ -1,6 +1,6 @@
 layers:
   QWERT:
-  - F13
+  - KP 1
   - $$mdi:keyboard-esc$$
   - F1
   - F2
@@ -14,10 +14,10 @@ layers:
   - F10
   - F11
   - F12
-  - F13
+  - INS
   - HOME
   - $$mdi:progress-download$$
-  - F14
+  - KP 2
   - {t: '`', s: '~'}
   - {t: '1', s: '!'}
   - {t: '2', s: '@'}
@@ -33,7 +33,7 @@ layers:
   - {t: '=', s: +}
   - {t: '$$mdi:backspace$$', type: backspace}
   - $$mdi:backspace-reverse-outline$$
-  - F15
+  - KP 3
   - $$mdi:keyboard-tab$$
   - Q
   - W
@@ -49,7 +49,7 @@ layers:
   - {t: ']', s: '}'}
   - {t: \, s: '|'}
   - PG UP
-  - F16
+  - KP 4
   - $$mdi:apple-keyboard-caps$$
   - A
   - S
@@ -64,7 +64,7 @@ layers:
   - {t: '''', s: '"'}
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - PG DN
-  - F17
+  - KP 5
   - $$mdi:apple-keyboard-shift$$
   - Z
   - X
